@@ -1,0 +1,27 @@
+body {
+  width: 100%;
+  background-color: teal;
+}
+.btns {
+  width: 50%;
+  position: relative;
+  top: 40px;
+  left: 470px;
+}
+
+.board {
+  border: 3px solid black;
+  display: grid;
+  position: center;
+  right: 30px;
+  bottom: 30px;
+  padding: 0px;
+  margin-top: 50px;
+  width: 550px;
+  height: 550px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
